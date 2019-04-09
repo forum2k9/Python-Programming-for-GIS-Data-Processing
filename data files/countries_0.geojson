@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "countries_0",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Country Name": "Nigeria", "Country Code": "NG", "Area": "923, 768 kmSq", "In Africa": "TRUE", "Latitude": 9.081999, "Longitude": 8.675277, "Population": 164669751 }, "geometry": { "type": "Point", "coordinates": [ 8.675277, 9.081999 ] } },
+{ "type": "Feature", "properties": { "Country Name": "Cote dIvoire", "Country Code": "CI", "Area": "322, 463 kmSq", "In Africa": "TRUE", "Latitude": 7.539989, "Longitude": -5.54708, "Population": 23695919 }, "geometry": { "type": "Point", "coordinates": [ -5.54708, 7.539989 ] } },
+{ "type": "Feature", "properties": { "Country Name": "Germany", "Country Code": "DE", "Area": "357, 386 kmSq", "In Africa": "FALSE", "Latitude": 51.165691, "Longitude": 10.451526, "Population": 82800000 }, "geometry": { "type": "Point", "coordinates": [ 10.451526, 51.165691 ] } },
+{ "type": "Feature", "properties": { "Country Name": "Japan", "Country Code": "JP", "Area": "377, 973 kmSq", "In Africa": "FALSE", "Latitude": 36.204824, "Longitude": 138.252924, "Population": 127748513 }, "geometry": { "type": "Point", "coordinates": [ 138.252924, 36.204824 ] } },
+{ "type": "Feature", "properties": { "Country Name": "Egypt", "Country Code": "EG", "Area": "1, 010, 408 kmSq", "In Africa": "TRUE", "Latitude": 26.820553, "Longitude": 30.802498, "Population": 95688681 }, "geometry": { "type": "Point", "coordinates": [ 30.802498, 26.820553 ] } }
+]
+}

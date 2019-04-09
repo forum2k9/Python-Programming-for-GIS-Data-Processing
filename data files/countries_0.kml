@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="countries_0" id="countries_0">
+	<SimpleField name="Country Name" type="string"></SimpleField>
+	<SimpleField name="Country Code" type="string"></SimpleField>
+	<SimpleField name="Area" type="string"></SimpleField>
+	<SimpleField name="In Africa" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Population" type="int"></SimpleField>
+</Schema>
+<Folder><name>countries_0</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#countries_0">
+		<SimpleData name="Country Name">Nigeria</SimpleData>
+		<SimpleData name="Country Code">NG</SimpleData>
+		<SimpleData name="Area">923, 768 kmSq</SimpleData>
+		<SimpleData name="In Africa">TRUE</SimpleData>
+		<SimpleData name="Latitude">9.081999</SimpleData>
+		<SimpleData name="Longitude">8.675277</SimpleData>
+		<SimpleData name="Population">164669751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>8.675277,9.081999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#countries_0">
+		<SimpleData name="Country Name">Cote dIvoire</SimpleData>
+		<SimpleData name="Country Code">CI</SimpleData>
+		<SimpleData name="Area">322, 463 kmSq</SimpleData>
+		<SimpleData name="In Africa">TRUE</SimpleData>
+		<SimpleData name="Latitude">7.539989</SimpleData>
+		<SimpleData name="Longitude">-5.54708</SimpleData>
+		<SimpleData name="Population">23695919</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.54708,7.539989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#countries_0">
+		<SimpleData name="Country Name">Germany</SimpleData>
+		<SimpleData name="Country Code">DE</SimpleData>
+		<SimpleData name="Area">357, 386 kmSq</SimpleData>
+		<SimpleData name="In Africa">FALSE</SimpleData>
+		<SimpleData name="Latitude">51.165691</SimpleData>
+		<SimpleData name="Longitude">10.451526</SimpleData>
+		<SimpleData name="Population">82800000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>10.451526,51.165691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#countries_0">
+		<SimpleData name="Country Name">Japan</SimpleData>
+		<SimpleData name="Country Code">JP</SimpleData>
+		<SimpleData name="Area">377, 973 kmSq</SimpleData>
+		<SimpleData name="In Africa">FALSE</SimpleData>
+		<SimpleData name="Latitude">36.204824</SimpleData>
+		<SimpleData name="Longitude">138.252924</SimpleData>
+		<SimpleData name="Population">127748513</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>138.252924,36.204824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#countries_0">
+		<SimpleData name="Country Name">Egypt</SimpleData>
+		<SimpleData name="Country Code">EG</SimpleData>
+		<SimpleData name="Area">1, 010, 408 kmSq</SimpleData>
+		<SimpleData name="In Africa">TRUE</SimpleData>
+		<SimpleData name="Latitude">26.820553</SimpleData>
+		<SimpleData name="Longitude">30.802498</SimpleData>
+		<SimpleData name="Population">95688681</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.802498,26.820553</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
