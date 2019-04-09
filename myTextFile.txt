@@ -1,0 +1,15 @@
+The value of x is:  Nigeria
+The value of x is:  Nigeria
+The value of y is:  Ghana
+The value of z is:  Senegal
+The value of lat1 is:  8.9001
+The value of long1 is:  10.101
+The value of age1 is:  23
+The value of age2 is:  50
+The value of x is:  Nigeria
+The value of y is:  Ghana
+The value of z is:  Senegal
+The value of lat1 is:  8.9001
+The value of long1 is:  10.101
+The value of age1 is:  23
+The value of age2 is:  50
