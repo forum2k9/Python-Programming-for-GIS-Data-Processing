@@ -1,4 +1,4 @@
-# Python-Programming-for-GIS-Data-Processing
+# Python Programming for GIS Data Processing in QGIS
 This is a repository that accompanies the YouTube playlist titled "Python Programming for GIS Data Processing in QGIS".
 
 YouTube Playlist: https://www.youtube.com/playlist?list=PLeHfkOtgcB2uNlPPq6op7SYtqftLDYAOT
