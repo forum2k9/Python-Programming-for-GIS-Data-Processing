@@ -6,4 +6,6 @@ Blog url: https://umar-yusuf.blogspot.com/2019/01/python-programming-for-gis-dat
 
 All the datasets and script files used in the videos are available for download on this page.
 
+Keywords: Python, Programming, GIS, Data, Processing, Scripting, Spatial Data, Map Automation, QGIS Programming, Python console
+
 Enjoy!
