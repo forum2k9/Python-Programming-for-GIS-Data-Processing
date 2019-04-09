@@ -1,0 +1,56 @@
+[
+ {
+   "Country Name": "Nigeria",
+   "Country Code": "NG",
+   "Area": "923, 768 kmSq",
+   "In Africa": "TRUE",
+   "Latitude": "9.081999",
+   "Longitude": "8.675277",
+   "Population": "164669751"
+ },
+ {
+   "Country Name": "Cote dIvoire",
+   "Country Code": "CI",
+   "Area": "322, 463 kmSq",
+   "In Africa": "TRUE",
+   "Latitude": "7.539989",
+   "Longitude": "-5.54708",
+   "Population": "23695919"
+ },
+ {
+   "Country Name": "Germany",
+   "Country Code": "DE",
+   "Area": "357, 386 kmSq",
+   "In Africa": "FALSE",
+   "Latitude": "51.165691",
+   "Longitude": "10.451526",
+   "Population": "82800000"
+ },
+ {
+   "Country Name": "Japan",
+   "Country Code": "JP",
+   "Area": "377, 973 kmSq",
+   "In Africa": "FALSE",
+   "Latitude": "36.204824",
+   "Longitude": "138.252924",
+   "Population": "127748513"
+ },
+ {
+   "Country Name": "None",
+   "Country Code": "None",
+   "Area": "None",
+   "In Africa": "None",
+   "Latitude": "None",
+   "Longitude": "None",
+   "Population": "None"
+ },
+ {
+   "Country Name": "Egypt",
+   "Country Code": "EG",
+   "Area": "1, 010, 408 kmSq",
+   "In Africa": "TRUE",
+   "Latitude": "26.820553",
+   "Longitude": "30.802498",
+   "Population": "95688681"
+ }
+]
