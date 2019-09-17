@@ -5,17 +5,17 @@ This is a repository that accompanies the YouTube playlist titled "Python Progra
 
 All the datasets and script files used in the videos are available for download on this page.
 
-Keywords:-
-- Python
-- Programming
-- GIS
-- Data
-- Processing
-- Scripting
-- Spatial Data
-- Map Automation
-- QGIS Programming
-- Python console
-- Automating QGIS
+##### Keywords:-
+- [x] Python
+- [x] Programming
+- [x] GIS
+- [x] Data
+- [x] Processing
+- [x] Scripting
+- [x] Spatial Data
+- [x] Map Automation
+- [x] QGIS Programming
+- [x] Python console
+- [x] Automating QGIS
 
 Enjoy!
